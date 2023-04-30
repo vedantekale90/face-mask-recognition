@@ -1,0 +1,7 @@
+pip install numpy --user
+pip install pandas --user
+pip install matplotlib --user
+pip install torch --user
+pip install pillow --user
+pip install detecto  rcm --user
+pip install labelImg --user
